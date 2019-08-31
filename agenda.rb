@@ -54,6 +54,8 @@ while true
       agenda.delete(nome.to_sym)
       puts "#{nome} foi deletado."
     end
+
+    
   else
     puts "Desculpa, opção inválida!"
   end
